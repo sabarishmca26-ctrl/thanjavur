@@ -15,8 +15,8 @@
             <div>
                 <h4>Location</h4>
                 <p>East Main Street, Thanjavur</p>
-                <p>+91 90000 12345</p>
-                <p>support@thanjavurtrails.com</p>
+                <p>+91 7200354947</p>
+                <p>raviprasath437@gmail.com</p>
             </div>
         </div>
     </footer>
