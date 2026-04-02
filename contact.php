@@ -11,8 +11,8 @@ require __DIR__ . '/includes/header.php';
     <article class="card">
         <h2 class="section-title">Reach Our Team</h2>
         <p class="text-muted">Have questions about routes, pricing, or custom cultural plans? Send us a message.</p>
-        <p><strong>Phone:</strong> +91 90000 12345</p>
-        <p><strong>Email:</strong> support@thanjavurtrails.com</p>
+        <p><strong>Phone:</strong> +91 7200354947</p>
+        <p><strong>Email:</strong> raviprasath437@gmail.com</p>
         <p><strong>Office:</strong> East Main Street, Thanjavur</p>
     </article>
 
